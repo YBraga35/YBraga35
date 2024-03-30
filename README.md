@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<h2> Hi, I'm Yan Braga</h2>
+
+<p><em>Biomedical informatics at <a href="https://ufcspa.edu.br/">Federal University of Health Sciences of Porto Alegre</a></em></p>
+
+
+[![YBraga35](https://github-readme-stats.vercel.app/api?username=ybraga35)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **YBraga35/YBraga35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
