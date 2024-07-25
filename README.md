@@ -9,7 +9,7 @@
 <table align="center"><tr><td valign="top" width="33%">
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,c,git,github,cloudflare,discord,eclipse,md,obsidian,ubuntu,vscode,wordpress&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=java,mysql,c,git,github,cloudflare,discord,eclipse,md,obsidian,ubuntu,vscode,wordpress&theme=light&perline=5" />
 </p>
 <br>
 </td></tr></table>
