@@ -26,10 +26,12 @@
 </td></tr></table>
 <br/><br/>
 
-  ## 🔖 Projects
+## 🔖 Projects
 - I'm currently running some personal projects, most of them related to ttrpg. Check to see some news!
 
-  ## 💻 Contact me
+
+
+## 💻 Contact me
 <br>
 <div> 
   <a href="https://www.linkedin.com/in/yan-braga-silva-04210a280/">
