@@ -9,7 +9,7 @@
 <table align="center"><tr><td valign="top" width="33%">
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql,c,git,github,cloudflare,discord,eclipse,md,obsidian,ubuntu,vscode,wordpress&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=c,cloudflare,dart,discord,eclipse,firebase,flutter,git,github,java,mysql,md,obsidian,ubuntu,vscode,wordpress&theme=light&perline=5" />
 </p>
 <br>
 </td></tr></table>
@@ -20,7 +20,7 @@
 <table align="center"><tr><td valign="top" width="33%">
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dart,debian,docker,firebase,flutter,js,nodejs,ps,py&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=debian,docker,js,nodejs,ps,py&theme=dark&perline=3" />
 </p>
 <br>
 </td></tr></table>
