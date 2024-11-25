@@ -20,13 +20,15 @@
 <table align="center"><tr><td valign="top" width="33%">
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=debian,docker,js,nodejs,ps,py&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=dart,debian,docker,firebase,flutter,js,nodejs,ps,py&theme=dark&perline=3" />
 </p>
 <br>
 </td></tr></table>
 <br/><br/>
 
 ## 🔖 Projects
+- I am currently working on development projects for health-related apps (physiotherapy)
+- I am also working on developing app projects to maintain healthy habits according to scientific evidence.
 - I'm currently running some personal projects, most of them related to ttrpg. Check to see some news!
 
 
